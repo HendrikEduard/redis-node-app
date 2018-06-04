@@ -1,13 +1,13 @@
 {
-  "name": "app",
+  "name": "redis-node-app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Node", "Redis"],
+  "author": "Eddie K",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
